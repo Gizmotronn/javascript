@@ -84,3 +84,45 @@ console.log(65/240)
 console.log(0.2708*100)
 ```
 Rest of it is on bit.ai
+
+
+# Intro to Variables
+## Creating variables
+There were a lot of changes introduced in the ES6 version of Javascript in 2015.
+One of the biggest changes was the introduction of two new keywords, let and const
+These create/declare variables
+Before this version, programmers could only use the var keyword to declare variables
+Creating a variable called myName with the value Arya:
+
+var myName = 'Arya';
+console.log(myName); // Printing, or outputting it to the console
+// Output: Arya
+var is short for variable
+It is a Javascript keyword that creates/declares a new variable
+  2. myName is the variable's name
+	 a. This capitilization is called camel casing
+  3. = is the assignment operator
+	 a. It assings the value 'Ayra' to the variable myName 
+  4. 'Arya' is the value assigned (=) to the variable myName 
+	 b. The myName variable is initialized with the value of 'Arya 
+  5. After the variable is declared, the string value is printed to the console by referencing 		       the variable name: console.log(myName); 
+
+Rules when naming variables
+Variable names cannot start with numbers
+Variable names are case sensitive
+Variable names cannot be the same as keywords
+
+Challenge
+Declare a variable named favoriteFood using the var keyword and assign to it the string pizza
+var favoriteFood = 'pizza";
+
+Declare a variable named numOfSlices using the var keyword and assign to it the number 8
+var numOfSlices = 8;
+
+> Using the numOfSlices variable, use `console.log()` to print the value saved to `favoriteFood`
+> On the following line, use `console.log()` to print the value saved to `numOfSlices`:
+```js
+console.log(favoriteFood);
+console.log(numOfSlices);```
+
+Check out https://acord.software/stellarios/starsailors#!/javascript:introduction-to-javascript/ive-started-discussing-it
