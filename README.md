@@ -123,6 +123,11 @@ var numOfSlices = 8;
 > On the following line, use `console.log()` to print the value saved to `numOfSlices`:
 ```js
 console.log(favoriteFood);
-console.log(numOfSlices);```
+console.log(numOfSlices);
+```
 
 Check out https://acord.software/stellarios/starsailors#!/javascript:introduction-to-javascript/ive-started-discussing-it
+
+# Creating variables using `let`
+<iframe class="clickup-embed clickup-dynamic-height" src="https://doc.clickup.com/d/h/6jy6k-275/" frameborder="0" onmousewheel="" width="100%" height="100%" style="background: transparent; border: 1px solid #ccc;"></iframe><script async src="https://app-cdn.clickup.com/assets/js/forms-embed/v1.js"></script>
+
