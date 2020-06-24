@@ -138,3 +138,6 @@ Check out https://acord.software/stellarios/starsailors#!/javascript:introductio
 https://doc.clickup.com/d/h/6jy6k-331/d9caa2071b4ed3c
 
 <iframe class="clickup-embed clickup-dynamic-height" src="https://doc.clickup.com/d/h/6jy6k-331/d9caa2071b4ed3c" frameborder="0" onmousewheel="" width="100%" height="100%" style="background: transparent; border: 1px solid #ccc;"></iframe><script async src="https://app-cdn.clickup.com/assets/js/forms-embed/v1.js"></script>
+
+# String Concatenation with variables
+https://share.clickup.com/t/h/1ww8cd/12G2N1L4HI4EGGD
