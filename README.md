@@ -141,3 +141,6 @@ https://doc.clickup.com/d/h/6jy6k-331/d9caa2071b4ed3c
 
 # String Concatenation with variables
 https://share.clickup.com/t/h/1ww8cd/12G2N1L4HI4EGGD
+
+# Type of Operator
+https://share.clickup.com/t/h/1wwgw4/UGYGHLOW4KPIAKC
