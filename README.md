@@ -144,3 +144,6 @@ https://share.clickup.com/t/h/1ww8cd/12G2N1L4HI4EGGD
 
 # Type of Operator
 https://share.clickup.com/t/h/1wwgw4/UGYGHLOW4KPIAKC
+
+# Review of variables
+https://share.clickup.com/t/h/1wwgzz/K2RQRWPEMNDQXQI
