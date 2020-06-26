@@ -147,3 +147,7 @@ https://share.clickup.com/t/h/1wwgw4/UGYGHLOW4KPIAKC
 
 # Review of variables
 https://share.clickup.com/t/h/1wwgzz/K2RQRWPEMNDQXQI
+
+# Conditional Statements
+## What are conditional statements?
+https://share.clickup.com/t/h/1wx4bx/DVFXW5IPRELOJFG
