@@ -151,3 +151,6 @@ https://share.clickup.com/t/h/1wwgzz/K2RQRWPEMNDQXQI
 # Conditional Statements
 ## What are conditional statements?
 https://share.clickup.com/t/h/1wx4bx/DVFXW5IPRELOJFG
+
+## If Statement
+https://share.clickup.com/t/h/1wx4f6/BJP8M4CMXV26JP4
