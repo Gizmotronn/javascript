@@ -147,3 +147,16 @@ https://share.clickup.com/t/h/1wwgw4/UGYGHLOW4KPIAKC
 
 # Review of variables
 https://share.clickup.com/t/h/1wwgzz/K2RQRWPEMNDQXQI
+
+# Conditional Statements
+## What are conditional statements?
+https://share.clickup.com/t/h/1wx4bx/DVFXW5IPRELOJFG
+
+## If Statement
+https://share.clickup.com/t/h/1wx4f6/BJP8M4CMXV26JP4
+
+## If/Else Statement
+https://share.clickup.com/t/h/1wxvrq/Y6O9U1Y901COHG5
+
+## Comparison Operators
+https://share.clickup.com/t/h/1ynbxr/FC1T2PWAN9SDCCS
