@@ -160,3 +160,64 @@ https://share.clickup.com/t/h/1wxvrq/Y6O9U1Y901COHG5
 
 ## Comparison Operators
 https://share.clickup.com/t/h/1ynbxr/FC1T2PWAN9SDCCS
+
+## Truthy & Falsey
+https://share.clickup.com/t/h/90feb6/MXSN9EOWEZ6OK84
+Truthy & Falsey
+Considering how non-boolean data types (like strings/numbers) are evaluated when checked inside a condition.
+
+Sometimes, you want to check if a variable exists and you won't necessarily want it to equal a specific value
+You only want to check to see if the variable has been assigned a variable
+
+Example:
+```js
+let myVariable = 'I Exist!';
+
+if (myVariable) {
+   console.log(myVariable)
+} else {
+   console.log('The variable does not exist.')
+}
+```
+
+The code block inside the if statement will run because the variable does exist
+even though the value of myVariable is not explicitly the value true, when used in a boolean or conditional context, it evaluates to true because it has been assigned a non-falsy value.
+
+Which values evaluate to false (i.e. are falsey) when checked as a condition:
+0
+Empty strings ("" or '')
+null
+undefined
+Nan // Not a number
+
+```js
+let numberOfApples = 0;
+
+if (numberOfApples){
+   console.log('Let us eat apples!');
+} else {
+   console.log('No apples left!');
+}
+
+// Prints 'No apples left!' - Evaluates to false because the value is 0
+```
+
+Challenge:
+```js
+let wordCount = 1;
+
+if (wordCount) {
+  console.log("Great! You've started your work!");
+} else {
+  console.log('Better get to work!');
+}
+
+
+let favoritePhrase = '';
+
+if (favoritePhrase) {
+  console.log("This string doesn't seem to be empty.");
+} else {
+  console.log('This string is definitely empty.');
+}
+```
