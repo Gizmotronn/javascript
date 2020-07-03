@@ -221,3 +221,8 @@ if (favoritePhrase) {
   console.log('This string is definitely empty.');
 }
 ```
+
+
+# Functions
+## Declaring functions
+https://share.clickup.com/t/h/92e549/A2QJHHPH9QE1V0K
