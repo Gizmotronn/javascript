@@ -226,3 +226,12 @@ if (favoritePhrase) {
 # Functions
 ## Declaring functions
 https://share.clickup.com/t/h/92e549/A2QJHHPH9QE1V0K
+
+## Calling a function
+https://share.clickup.com/t/h/94fkcm/49FLHQ60YF3W4LI
+
+## Parameters & Arguments
+https://share.clickup.com/t/h/94fn8y/VMFCCSLHHTLLZA9
+
+## Default Parameters
+https://share.clickup.com/t/h/9aerhf/QXX6S5RNX5AGDJ7
