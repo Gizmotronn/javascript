@@ -229,3 +229,5 @@ https://share.clickup.com/t/h/92e549/A2QJHHPH9QE1V0K
 
 ## Return function
 https://share.clickup.com/t/h/9ck7vx/7DS6G2HAZWG10G4
+
+## Helper functions
