@@ -235,3 +235,6 @@ https://share.clickup.com/t/h/1yxx77/WE5VPTC0OYAXGSY
 
 ## Function Expressions
 https://share.clickup.com/t/h/1yxxdz/1K1RPFN2P00H9TY
+
+## Arrow Functions
+https://share.clickup.com/t/h/20n589/QGIS5VZXVOR1JHX
