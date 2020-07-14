@@ -232,3 +232,6 @@ https://share.clickup.com/t/h/9ck7vx/7DS6G2HAZWG10G4
 
 ## Helper functions
 https://share.clickup.com/t/h/1yxx77/WE5VPTC0OYAXGSY
+
+## Function Expressions
+https://share.clickup.com/t/h/1yxxdz/1K1RPFN2P00H9TY
