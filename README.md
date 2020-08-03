@@ -227,6 +227,19 @@ if (favoritePhrase) {
 ## Declaring functions
 https://share.clickup.com/t/h/92e549/A2QJHHPH9QE1V0K
 
+
+## Return function
+https://share.clickup.com/t/h/9ck7vx/7DS6G2HAZWG10G4
+
+## Helper functions
+https://share.clickup.com/t/h/1yxx77/WE5VPTC0OYAXGSY
+
+## Function Expressions
+https://share.clickup.com/t/h/1yxxdz/1K1RPFN2P00H9TY
+
+## Arrow Functions
+https://share.clickup.com/t/h/20n589/QGIS5VZXVOR1JHX
+=======
 ## Calling a function
 https://share.clickup.com/t/h/94fkcm/49FLHQ60YF3W4LI
 
@@ -235,3 +248,4 @@ https://share.clickup.com/t/h/94fn8y/VMFCCSLHHTLLZA9
 
 ## Default Parameters
 https://share.clickup.com/t/h/9aerhf/QXX6S5RNX5AGDJ7
+
