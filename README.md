@@ -249,3 +249,5 @@ https://share.clickup.com/t/h/94fn8y/VMFCCSLHHTLLZA9
 ## Default Parameters
 https://share.clickup.com/t/h/9aerhf/QXX6S5RNX5AGDJ7
 
+# Variable Review
+https://share.clickup.com/t/h/1yt09q/RV506GPNC08MAIW
