@@ -169,3 +169,116 @@ Check out https://acord.software/stellarios/starsailors#!/javascript:introductio
 https://doc.clickup.com/d/h/6jy6k-331/d9caa2071b4ed3c
 
 <iframe class="clickup-embed clickup-dynamic-height" src="https://doc.clickup.com/d/h/6jy6k-331/d9caa2071b4ed3c" frameborder="0" onmousewheel="" width="100%" height="100%" style="background: transparent; border: 1px solid #ccc;"></iframe><script async src="https://app-cdn.clickup.com/assets/js/forms-embed/v1.js"></script>
+
+# String Concatenation with variables
+https://share.clickup.com/t/h/1ww8cd/12G2N1L4HI4EGGD
+
+# Type of Operator
+https://share.clickup.com/t/h/1wwgw4/UGYGHLOW4KPIAKC
+
+# Review of variables
+https://share.clickup.com/t/h/1wwgzz/K2RQRWPEMNDQXQI
+
+# Conditional Statements
+## What are conditional statements?
+https://share.clickup.com/t/h/1wx4bx/DVFXW5IPRELOJFG
+
+## If Statement
+https://share.clickup.com/t/h/1wx4f6/BJP8M4CMXV26JP4
+
+## If/Else Statement
+https://share.clickup.com/t/h/1wxvrq/Y6O9U1Y901COHG5
+
+## Comparison Operators
+https://share.clickup.com/t/h/1ynbxr/FC1T2PWAN9SDCCS
+
+## Truthy & Falsey
+https://share.clickup.com/t/h/90feb6/MXSN9EOWEZ6OK84
+Truthy & Falsey
+Considering how non-boolean data types (like strings/numbers) are evaluated when checked inside a condition.
+
+Sometimes, you want to check if a variable exists and you won't necessarily want it to equal a specific value
+You only want to check to see if the variable has been assigned a variable
+
+Example:
+```js
+let myVariable = 'I Exist!';
+
+if (myVariable) {
+   console.log(myVariable)
+} else {
+   console.log('The variable does not exist.')
+}
+```
+
+The code block inside the if statement will run because the variable does exist
+even though the value of myVariable is not explicitly the value true, when used in a boolean or conditional context, it evaluates to true because it has been assigned a non-falsy value.
+
+Which values evaluate to false (i.e. are falsey) when checked as a condition:
+0
+Empty strings ("" or '')
+null
+undefined
+Nan // Not a number
+
+```js
+let numberOfApples = 0;
+
+if (numberOfApples){
+   console.log('Let us eat apples!');
+} else {
+   console.log('No apples left!');
+}
+
+// Prints 'No apples left!' - Evaluates to false because the value is 0
+```
+
+Challenge:
+```js
+let wordCount = 1;
+
+if (wordCount) {
+  console.log("Great! You've started your work!");
+} else {
+  console.log('Better get to work!');
+}
+
+
+let favoritePhrase = '';
+
+if (favoritePhrase) {
+  console.log("This string doesn't seem to be empty.");
+} else {
+  console.log('This string is definitely empty.');
+}
+```
+
+
+# Functions
+## Declaring functions
+https://share.clickup.com/t/h/92e549/A2QJHHPH9QE1V0K
+
+
+## Return function
+https://share.clickup.com/t/h/9ck7vx/7DS6G2HAZWG10G4
+
+## Helper functions
+https://share.clickup.com/t/h/1yxx77/WE5VPTC0OYAXGSY
+
+## Function Expressions
+https://share.clickup.com/t/h/1yxxdz/1K1RPFN2P00H9TY
+
+## Arrow Functions
+https://share.clickup.com/t/h/20n589/QGIS5VZXVOR1JHX
+=======
+## Calling a function
+https://share.clickup.com/t/h/94fkcm/49FLHQ60YF3W4LI
+
+## Parameters & Arguments
+https://share.clickup.com/t/h/94fn8y/VMFCCSLHHTLLZA9
+
+## Default Parameters
+https://share.clickup.com/t/h/9aerhf/QXX6S5RNX5AGDJ7
+
+# Variable Review
+https://share.clickup.com/t/h/1yt09q/RV506GPNC08MAIW
