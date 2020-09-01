@@ -2,6 +2,37 @@
 Learning & Working with Javascript
 File: https://acord.bit.ai/docs/view/rcYtrhiWFUcbmcc3
 
+<details>
+<summary>How do I dropdown?</summary>
+<br>
+This is how you dropdown.
+<br><br>
+<pre>
+&lt;details&gt;
+&lt;summary&gt;How do I dropdown?&lt;&#47;summary&gt;
+&lt;br&gt;
+This is how you dropdown.
+&lt;&#47;details&gt;
+</pre>
+</details>
+
+---
+
+<details open>
+<summary>Want to ruin the surprise?</summary>
+<br>
+Well, you asked for it!
+<br><br>
+<pre>
+&lt;details open&gt;
+&lt;summary&gt;Want to ruin the surprise?&lt;&#47;summary&gt;
+&lt;br&gt;
+Well, you asked for it!
+&lt;&#47;details&gt;
+</pre>
+</details>
+
+
 # Intro to Javascript
 Using for practice with 
 screeps/screeps A standalone server for programming game Screeps. Contribute to screeps/screeps development by creating an account on GitHub.
