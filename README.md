@@ -1,6 +1,21 @@
-# javascript
+# javascript & projects
 Learning & Working with Javascript
 File: https://acord.bit.ai/docs/view/rcYtrhiWFUcbmcc3
+
+Repositories:
+[acord-robotics/reactjs](https://github.com/gizmotronn/reactjs)
+This one
+
+# Javascript Tutorials
+<details>
+<summary>Javascript ES6</summary>
+<br>
+https://www.notion.so/JS-ES6-For-Beginners-d4942feb07ca4a1c94671d4d2c1e91d4
+</details>	
+
+<details>
+<summary>Intro to Javascript - Codecademy</summary>
+<br>
 
 # Intro to Javascript
 Using for practice with 
@@ -251,3 +266,22 @@ https://share.clickup.com/t/h/9aerhf/QXX6S5RNX5AGDJ7
 
 # Variable Review
 https://share.clickup.com/t/h/1yt09q/RV506GPNC08MAIW
+
+
+---
+
+<details open>
+<summary>Want to ruin the surprise?</summary>
+<br>
+Well, you asked for it!
+<br><br>
+<pre>
+&lt;details open&gt;
+&lt;summary&gt;Want to ruin the surprise?&lt;&#47;summary&gt;
+&lt;br&gt;
+Well, you asked for it!
+&lt;&#47;details&gt;
+</pre>
+</details>
+
+
