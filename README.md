@@ -10,7 +10,7 @@ This one
 <details>
 <summary>Javascript ES6</summary>
 <br>
-https://www.notion.so/JS-ES6-For-Beginners-d4942feb07ca4a1c94671d4d2c1e91d4
+[Notion Document](https://www.notion.so/JS-ES6-For-Beginners-d4942feb07ca4a1c94671d4d2c1e91d4)
 </details>	
 
 <details>
