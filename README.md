@@ -4,13 +4,60 @@ File: https://acord.bit.ai/docs/view/rcYtrhiWFUcbmcc3
 
 Repositories:
 [acord-robotics/reactjs](https://github.com/gizmotronn/reactjs)
-This one
+[acord-robotics/javascript](https://acord.software/javascript)
+[ac0rd:notion.so/javascript](https://www.notion.so/JS-ES6-For-Beginners-d4942feb07ca4a1c94671d4d2c1e91d4)
 
 # Javascript Tutorials
 <details>
 <summary>Javascript ES6</summary>
 <br>
 [Notion Document](https://www.notion.so/JS-ES6-For-Beginners-d4942feb07ca4a1c94671d4d2c1e91d4)
+	<details>
+<summary>Default Parameters</summary>
+<br>
+		
+# Default Parameters
+
+Default Parameters - parameters which are given by default when declaring a function, however its value can be changed when CALLING the function
+
+```js	
+let Func = (a, b = 10) => {
+ return a + b; 
+}
+Func(20); // 20 + 10 = 30
+```
+
+Where the variable `a` isn't defined when the function/variableFunction `Func` is defined, so its value needs to be defined when the function is called (like in `line 4`). However, the variable `b` is given a value of *10* and therefore, this doesn't need to be given when `Func` is called. However, it can still be given regardless, and in this case the variable is redefined (temporarily - immediately after, the value of `b` is returned to *10* for every other call of the function, the new value will only work in `scope`)
+
+Example:
+
+```js
+let Func1 = (a, b = 10) => {
+	return a + b;
+}
+Func(20, 11); // 20 + 11 = 31
+```
+
+We can also give the variable `b` the same value (*10*) that it is defined with, however this is redundant.
+
+This won't work:
+
+```js
+let NotWorkingFunction = (a = 10, b) => {
+ return a + b;
+}
+NotWorkingFunction(20); // NAN. Not gonna work.
+```
+
+To fix it:
+
+```js
+let NowNotNotWorkingFunction = (a = 10, b) => {
+	return a + b;
+}
+NowNotNotWorkingFunction(a, 20); // or 10, 20, or 11, 20, etc
+```
+</details>
 </details>	
 
 <details>
